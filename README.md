@@ -16,7 +16,7 @@
 `Node.js` `Express` `Python (Flask)` `MongoDB` `PostgreSQL` `Firebase`
 
 **AI Integration**
-`Gemini API` `Groq API` `Claude`
+`Gemini API` `Groq API` `Claude` `OpenRouter` `OpenCode` 
 
 **DevOps (currently learning)**
 `Git` `Docker` `AWS (EC2, S3)` `Linux basics`
