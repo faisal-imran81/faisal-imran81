@@ -13,7 +13,7 @@
 `React.js` `React Native` `Tailwind CSS` `JavaScript` `TypeScript`
 
 **Backend**
-`Node.js` `Express` `Python (Flask)` `MongoDB` `PostgreSQL` `Firebase`
+`Node.js` `Express` `Python (Flask)` `MongoDB` `PostgreSQL` `Supabase`
 
 **AI Integration**
 `Gemini API` `Groq API` `Claude` `OpenRouter` `OpenCode` 
