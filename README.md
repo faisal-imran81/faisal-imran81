@@ -19,14 +19,14 @@
 ```yaml
 name: Faisal Imran
 education: BS Computer Science — NUCES Chiniot-Faisalabad (Final Year)
-role: Full Stack AI Engineering Intern @ FlyRank AI
+role: FrontEnd AI Engineering Intern @ FlyRank AI
 goal: DevOps Engineer 🚀
 location: Faisalabad, Pakistan
 currently_building:
   - AI-powered web & mobile apps
   - DevOps muscle memory (Docker + AWS + Linux)
 interests:
-  - Frontend Engineering
+  - Play Engineering
   - AI Integration
   - Cloud & DevOps
 ```
