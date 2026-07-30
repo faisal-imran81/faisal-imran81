@@ -26,7 +26,7 @@ currently_building:
   - AI-powered web & mobile apps
   - DevOps muscle memory (Docker + AWS + Linux)
 interests:
-  - Frontend Engineering
+  - Play Engineering
   - AI Integration
   - Cloud & DevOps
 ```
