@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Faisal%20Imran&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20AI%20%7C%20DevOps%20(in%20progress%20👀)&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Faisal%20Imran&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20DevOps%20(in%20progress%20👀)&descAlignY=60&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Final-year+CS+Student+%40+NUCES+CF;Frontend+AI+Engineering+Intern+%40+FlyRank;Building+AI-powered+apps+with+React+%26+RN;DevOps+learner+%F0%9F%90%B3+%7C+Docker+%7C+AWS+%7C+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Final-year+CS+Student+%40+NUCES+CF;Full+Stack+AI+Engineering+Intern+%40+FlyRank;Building+AI-powered+apps+with+React+%26+RN;DevOps+learner+%F0%9F%90%B3+%7C+Docker+%7C+AWS+%7C+Linux)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,14 +19,14 @@
 ```yaml
 name: Faisal Imran
 education: BS Computer Science — NUCES Chiniot-Faisalabad (Final Year)
-role: Frontend AI Engineering Intern @ FlyRank AI
+role: Full Stack AI Engineering Intern @ FlyRank AI
 goal: DevOps Engineer 🚀
 location: Faisalabad, Pakistan
 currently_building:
   - AI-powered web & mobile apps
   - DevOps muscle memory (Docker + AWS + Linux)
 interests:
-  - Play Engineering
+  - Frontend Engineering
   - AI Integration
   - Cloud & DevOps
 ```
@@ -89,17 +89,15 @@ interests:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 AI Resume Reviewer</h3>
-      <p>Capstone project that gives detailed AI-powered resume feedback using the Gemini API. Built with React + Vite + Tailwind CSS — fast, clean, and actually useful.</p>
+      <h3>🎓 Elucid — AI Tutor App</h3>
+      <p>A production-grade AI tutoring app built with React Native and Expo. Features real-time AI-powered Q&A, responsive web layout, and a seamless cross-platform experience — deployed and presented to stakeholders at 8x.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Expo_Router-000?style=flat-square&logo=expo&logoColor=white"/>
       </p>
-      <a href="https://github.com/faisal-imran81/ai-resume-reviewer">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
     </td>
   </tr>
   <tr>
@@ -132,7 +130,7 @@ interests:
 
 ## 🌱 Currently
 
-- 🏢 **Frontend AI Engineering Intern @ FlyRank AI** — working through Frontend & AI Fluency tracks
+- 🏢 **Full Stack AI Engineering Intern @ FlyRank AI** — working through Frontend & AI Fluency tracks
 - 🐳 **DevOps path** — [roadmap.sh/devops](https://roadmap.sh/devops) + Abhishek Veeramalla's "DevOps Zero to Hero" series
 - ☁️ Getting hands-on with **Docker** and **AWS free tier** (EC2 + S3)
 - 🤖 Building AI-integrated apps with **Groq**, **Gemini**, and **Claude**
