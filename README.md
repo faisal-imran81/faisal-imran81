@@ -115,13 +115,22 @@ interests:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 PakTravel AI System</h3>
-      <p>AI course project covering search algorithms, propositional logic, CSP, neural networks, and K-Means clustering — all applied to a Pakistan travel planning problem.</p>
+      <h3>🧠 Solace — AI Mental Wellness Companion</h3>
+      <p>A global mental health platform with AI-powered emotional support, mood tracking, journaling, crisis detection, and an anonymous community. Features a 3D brain orb landing page, real-time SSE streaming, and a full wellness dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI_Algorithms-FF6F61?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq_LLaMA_3.1-F55036?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
+      <a href="https://github.com/faisal-imran81/Solace">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://solace-web-fm4f-gamma.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
