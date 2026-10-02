@@ -70,90 +70,6 @@ interests:
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕌 Muslimeen — AI Qur'an Companion</h3>
-      <p>An AI-powered Qur'an companion app built for a production-level technical assessment. Features anonymous guest sign-in, conversation history with pin/delete/share, dark/light theming, and an Islamic geometric animated welcome screen.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq_LLaMA_3.1-F55036?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      </p>
-      <a href="https://github.com/faisal-imran81/quran-chat-app">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Elucid — AI Tutor App</h3>
-      <p>A production-grade AI tutoring app built with React Native and Expo. Features real-time AI-powered Q&A, 5 difficulty levels (ELI5 to PhD), quiz mode, daily streak tracking, and a seamless cross-platform experience — deployed and presented to stakeholders.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Expo_Router-000?style=flat-square&logo=expo&logoColor=white"/>
-      </p>
-      <a href="https://github.com/faisal-imran81/Elucid-AI-Tutor">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Solace — AI Mental Wellness Companion</h3>
-      <p>A global mental health platform with AI-powered emotional support, mood tracking, journaling, crisis detection, and an anonymous community. Features a 3D brain orb landing page, real-time SSE streaming, and a full wellness dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq_LLaMA_3.1-F55036?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      </p>
-      <a href="https://github.com/faisal-imran81/Solace">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://solace-web-fm4f-gamma.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 AI Resume Reviewer — FlyRank Capstone</h3>
-      <p>Capstone project built during my Frontend AI Engineering internship at FlyRank AI. An AI-powered resume reviewer that gives structured, actionable feedback. Built with React (Vite), Tailwind CSS, and the Gemini API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Vite-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 TA & Faculty Collaboration Platform</h3>
-      <p>A MERN-stack web platform built to streamline communication and task management between TAs and faculty. Built collaboratively with a focus on clean role-based flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-      <a href="https://github.com/faisal-imran81/ta-faculty-platform">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Placeholder for future project -->
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌱 Currently
 
 - 🎓 **Final year @ NUCES CF** — two semesters left, wrapping up strong
@@ -178,16 +94,6 @@ interests:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-imran81&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-imran81&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faisal-imran81&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
