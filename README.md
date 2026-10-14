@@ -20,7 +20,7 @@
 name: Faisal Imran
 education: BS Computer Science — FAST NUCES (Final Year)
 role: ex-Frontend AI Eng Intern @ FlyRank AI ✅
-goal: DevOps Engineer 🚀
+goal: DevOps Engineer 
 location: Faisalabad, Pakistan
 currently_building:
   - DevOps muscle memory (Docker + AWS + Linux)
