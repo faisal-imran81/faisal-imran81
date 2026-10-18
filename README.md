@@ -19,7 +19,7 @@
 ```yaml
 name: Faisal Imran
 education: BS Computer Science — FAST NUCES (Final Year)
-role: ex-Frontend AI Eng Intern @ FlyRank AI 
+role: ex-Frontend AI Eng Intern @FlyRankAI 
 goal: DevOps Engineer 
 location: Faisalabad, Pakistan
 currently_building:
@@ -74,7 +74,7 @@ interests:
 
 - 🎓 **Final year @ NUCES CF** — two semesters left, wrapping up strong
 - 🐳 **DevOps path** — [roadmap.sh/devops](https://roadmap.sh/devops) + Abhishek Veeramalla's "DevOps Zero to Hero" series
-- ☁️ Getting hands-on with **Docker** and **AWS free tier** (EC2 + S3)
+- ☁️ Getting hands-on exp with **Docker** and **AWS free tier** (EC2 + S3)
 - 🤖 Building AI-integrated apps with **Groq**, **Gemini**, and **Claude**
 
 ---
