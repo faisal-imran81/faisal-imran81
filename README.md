@@ -28,7 +28,7 @@ currently building:
 interests:
   - AI Integration
   - Cloud & DevOps
-  - Full Stack Engineering
+  - Full Stack 
 ```
 
 ---
