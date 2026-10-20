@@ -22,7 +22,7 @@ education: BS Computer Science — FAST NUCES (Final Year)
 role: ex-Frontend AI Eng Intern @FlyRankAI 
 goal: DevOps Engineer 
 location: Faisalabad, Pakistan
-currently_building:
+currently building:
   - DevOps muscle memory (Docker + AWS + Linux)
   - Final year CS projects & portfolio polish
 interests:
