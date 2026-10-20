@@ -72,7 +72,7 @@ interests:
 
 ## 🌱 Currently
 
-- 🎓 **Final year @ NUCES CF** — two semesters left, wrapping up strong
+- 🎓 **Final year @ NUCES ** — Final year, wrapping up strong
 - 🐳 **DevOps path** — [roadmap.sh/devops](https://roadmap.sh/devops) + Abhishek Veeramalla's "DevOps Zero to Hero" series
 - ☁️ Getting hands-on exp with **Docker** and **AWS free tier** (EC2 + S3)
 - 🤖 Building AI-integrated apps with **Groq**, **Gemini**, and **Claude**
