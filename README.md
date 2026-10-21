@@ -82,7 +82,7 @@ interests:
 ## 💼 Experience
 
 **Frontend AI Engineering Intern — FlyRank AI** *(July 2026)*
-> Completed the AI Fluency & Frontend tracks. Built AI-powered features, worked with prompt engineering workflows, and shipped a capstone AI Resume Reviewer app using React, Tailwind, and the Gemini API.....
+> Completed the AI Fluency & Frontend engeneering. Built AI-powered features, worked with prompt engineering workflows, and shipped a capstone AI Resume Reviewer app using React, Tailwind, and the Gemini API.....
 
 ---
 
