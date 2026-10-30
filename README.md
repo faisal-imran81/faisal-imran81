@@ -27,7 +27,7 @@ currently building:
   - Final year CS projects & portfolio polish
 interests:
   - AI Integration
-  - Cloud & DevOps
+  - Cloud infrastructure & DevOps
   - Full Stack 
 ```
 
