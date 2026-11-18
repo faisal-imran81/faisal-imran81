@@ -28,7 +28,7 @@ currently i'm building:
 interests:
   - AI Integration
   - Cloud infrastructure & DevOps
-  - Full Stack 
+  - Forward devloped engineer
 ```
 
 ---
